@@ -2,7 +2,7 @@
 
 This is a learning material developed using Jupyter Notebook to support a <a href='https://www.ieeetoronto.ca/2020/08/06/applied-data-science-with-pandas/' target='_blank'> webinar hosted by the IEEE Toronto about pandas library</a> on August 18, 2020.  
 
-To run the material, download or clone this repository and open the Jupyter Notebook or <a href='https://jupyter.org/'>Jupyter Lab</a> from the same folder where you downloaded/extracted the files.  
+To run the material, download or clone this repository and open the <a href='https://jupyter.org/'>Jupyter Notebook or Jupyter Lab</a> from the same folder where you downloaded/extracted the files.  
 
 Then, execute the file main.ipynb from the Jupyter Notebook.
 
